@@ -15,3 +15,6 @@
   * [Optimizer](24_optimizer.py)
   * [TensorBoard](25_tensorboard.py)
   * [Dataset](26_dataset.py)
+
+* Standford:
+  [CS231n: Convolutional Neural Networks for Visual Recognition] (http://cs231n.stanford.edu/)
