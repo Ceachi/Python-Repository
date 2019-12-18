@@ -1,0 +1,7 @@
+Test linia 1,continuare linia 1
+Sfarsit de fisier care e linia 2
+Alt text la fisierul existent
+A doua linie la fisierul deja existent
+
+Alt text la fisierul existent
+A doua linie la fisierul deja existent
