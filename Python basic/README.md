@@ -2,7 +2,6 @@
 
 ![Screenshot](pylogo.png)
 
-# Python Fundamentals
  * [Lecture 1 - Variables](https://github.com/Ceachi/Python-Repository/tree/master/Python%20basic/Python-Fundamentals/Lecture%201%20-%20Variables)
  * [Lecture 2 - Loops, if](https://github.com/Ceachi/Python-Repository/tree/master/Python%20basic/Python-Fundamentals/Lecture%202%20-%20Loops%2C%20if)
  * [Lecture 3 - Other types of data](https://github.com/Ceachi/Python-Repository/tree/master/Python%20basic/Python-Fundamentals/Lecture%203%20-%20Other%20types%20of%20data)
@@ -16,5 +15,5 @@
 * Interprocess communication: 
   * [Communication using sockets](https://github.com/Ceachi/Python-Repository/tree/master/Python%20basic/Communication%20using%20sockets)
   
-* Other references:
+# Other references:
 * https://www.bogotobogo.com/python/pytut.php
