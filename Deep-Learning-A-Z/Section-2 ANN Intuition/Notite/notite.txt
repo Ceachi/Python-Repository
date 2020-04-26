@@ -1,0 +1,19 @@
+1. local minima (gen minimum functiei tale pe grafic nu este evident din prima,
+initial crezi ca este altul)
+2. subpar neaural network (este o retea care are local minima)
+3. when cost function can be convex? (atunci cand stii din prima, gen visual
+unde se afla minimum functiei de cost)
+4. gradient descent method = batch gradient descent
+5. Stocastic gradient descent = weights-urile, se ajusteaza
+pt fiecare test (rand), gen iei primul rand, il
+bagi in retea, calculezi cost function si ajustezi weights-urile, la gradient descent se iau toate randurile
+apoi se calculeaza cost function si se ajusteaza weights-urile.
+- el te scapa de problema de cautare a acestor local minimum
+
+
+5. Dropout
+- sa spunem ca ai mai multe local-minimum.
+- in NN tu ai un hidden layer, iar fiecare nod reprezinta un random variable ce cauta un anumit local-minimum
+- Dar cum faci, ca toate nodurile sa dea spre acelasi local-minimum? Raspunsul este "Dropout"
+https://iamtrask.github.io/2015/07/27/python-network-part2/
+
